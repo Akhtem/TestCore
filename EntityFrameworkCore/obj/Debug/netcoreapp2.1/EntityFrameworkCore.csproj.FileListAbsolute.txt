@@ -1,0 +1,11 @@
+C:\Users\Akhtem1995\source\repos\CourseManager\EntityFrameworkCore\bin\Debug\netcoreapp2.1\EntityFrameworkCore.deps.json
+C:\Users\Akhtem1995\source\repos\CourseManager\EntityFrameworkCore\bin\Debug\netcoreapp2.1\EntityFrameworkCore.runtimeconfig.json
+C:\Users\Akhtem1995\source\repos\CourseManager\EntityFrameworkCore\bin\Debug\netcoreapp2.1\EntityFrameworkCore.runtimeconfig.dev.json
+C:\Users\Akhtem1995\source\repos\CourseManager\EntityFrameworkCore\bin\Debug\netcoreapp2.1\EntityFrameworkCore.dll
+C:\Users\Akhtem1995\source\repos\CourseManager\EntityFrameworkCore\bin\Debug\netcoreapp2.1\EntityFrameworkCore.pdb
+C:\Users\Akhtem1995\source\repos\CourseManager\EntityFrameworkCore\obj\Debug\netcoreapp2.1\EntityFrameworkCore.csprojAssemblyReference.cache
+C:\Users\Akhtem1995\source\repos\CourseManager\EntityFrameworkCore\obj\Debug\netcoreapp2.1\EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\Akhtem1995\source\repos\CourseManager\EntityFrameworkCore\obj\Debug\netcoreapp2.1\EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\Akhtem1995\source\repos\CourseManager\EntityFrameworkCore\obj\Debug\netcoreapp2.1\EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\Akhtem1995\source\repos\CourseManager\EntityFrameworkCore\obj\Debug\netcoreapp2.1\EntityFrameworkCore.dll
+C:\Users\Akhtem1995\source\repos\CourseManager\EntityFrameworkCore\obj\Debug\netcoreapp2.1\EntityFrameworkCore.pdb
